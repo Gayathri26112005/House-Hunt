@@ -1,12 +1,3 @@
-
-## What technologies are used for this project?
-
-This project is built with:
-- HTML
-- JavaScript
-- React
-- Tailwind CSS
-
 ## About this Project :
 
 Project Overview:
@@ -26,3 +17,9 @@ Property Details: Individual property information
 Contact: Get in touch page
 Auth: Login and registration forms
 
+## What technologies are used for this project?
+This project is built with:
+- HTML
+- JavaScript
+- React
+- Tailwind CSS
