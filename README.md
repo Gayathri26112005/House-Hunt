@@ -1,36 +1,73 @@
-## About this Project :
+# Welcome to your Lovable project
 
-Project Overview:
-HouseHunt is a comprehensive rental property website that helps users find and rent homes, apartments, and studios. It features a clean, responsive design with a focus on user experience.
+## Project info
 
-Key Features:
+**URL**: https://lovable.dev/projects/202da4b8-b734-41c6-9b15-d600de9d9b29
 
-Property Search: Advanced search with location, type, and price filters
+## How can I edit this code?
 
-Property Listings: Browse featured properties with detailed information
+There are several ways of editing your application.
 
-Property Details: Comprehensive property pages with photos, amenities, and owner contact
+**Use Lovable**
 
-User Authentication: Login and registration system
+Simply visit the [Lovable Project](https://lovable.dev/projects/202da4b8-b734-41c6-9b15-d600de9d9b29) and start prompting.
 
-Responsive Design: Works seamlessly on desktop and mobile devices
+Changes made via Lovable will be committed automatically to this repo.
 
+**Use your preferred IDE**
 
-Current Pages:
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-Home: Hero section with search and featured properties
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Categories: Browse all available properties
+Follow these steps:
 
-Property Details: Individual property information
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
 
-Contact: Get in touch page
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
 
-Auth: Login and registration forms
+# Step 3: Install the necessary dependencies.
+npm i
+
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
+
+**Edit a file directly in GitHub**
+
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
+
+**Use GitHub Codespaces**
+
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
 
 ## What technologies are used for this project?
+
 This project is built with:
-- HTML
-- JavaScript
+
+- Vite
+- TypeScript
 - React
+- shadcn-ui
 - Tailwind CSS
+
+## How can I deploy this project?
+
+Simply open [Lovable](https://lovable.dev/projects/202da4b8-b734-41c6-9b15-d600de9d9b29) and click on Share -> Publish.
+
+## Can I connect a custom domain to my Lovable project?
+
+Yes, you can!
+
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
